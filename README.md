@@ -2,7 +2,7 @@
 
 Binary Search tree all methods to add, remove, check cardinality, check are member. And also two test methods. This repositorie is related to datastructure
     <p align="center">
-     <img src="img/Binary_search_example_tree.svg.png" alt="" />
+     <img src="img/Binary_search_example_tree.png" alt="" />
     </p>
 
 
